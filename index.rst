@@ -37,6 +37,7 @@ There are two kinds of subprojects:
    :hidden:
 
    EPICS Website <https://epics-controls.org>
+   EPICS 7.0 Release Notes <https://docs.epics-controls.org/projects/epics-base/en/latest/RELEASE_NOTES.html>
 
 .. toctree::
    :maxdepth: 1
@@ -65,6 +66,7 @@ There are two kinds of subprojects:
    process-database/EPICS_Process_Database_Concepts.rst
    process-database/add-new-breakpoint-table.md
    Database Examples (external link) <https://github.com/epics-docs/database-examples>
+   Record Reference <https://docs.epics-controls.org/projects/epics-base/en/latest/record-reference.html>
 
 .. toctree::
    :maxdepth: 1
@@ -104,6 +106,7 @@ There are two kinds of subprojects:
 
    internal/ca_protocol
    internal/IOCInit
+   C/C++ API Reference <https://docs.epics-controls.org/projects/epics-base/en/latest/c-api.html>
 
 .. toctree::
    :maxdepth: 1
